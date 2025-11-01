@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Arnav Bhomia 👋
 
-<!--
-**ArnavBhomia/ArnavBhomia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics Enthusiast | Electrical & Electronics Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Skills
+
+Here are some of the technologies and tools I work with:
+
+* **Programming Languages:** Python, SQL
+
+* **Data Visualization:** Tableau, Power BI, Matlplotlib, Seaborn
+
+* **Python Libraries:** Pandas, NumPy, Scikit-learn
+
+* **Tools & Other:** Advanced Excel, Google Analytics, MATLAB, Git, Jupyter Notebooks
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [ArnavBhomia](https://www.linkedin.com/in/arnavbhomia)

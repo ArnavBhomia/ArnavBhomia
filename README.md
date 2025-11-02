@@ -1,11 +1,11 @@
-# Hi there 👋, I'm **Arnav Bhomia**
+# Namaste 👋, I'm **Arnav Bhomia**
 ### Data Analytics Enthusiast | Electrical & Electronics Engineer
 
 > A highly motivated professional combining a strong foundation in Electrical and Electronics Engineering with a passion for transforming complex data into actionable insights. Currently focused on leveraging the Python ecosystem for advanced data modeling and visualization.
 
 ---
 
-## ⚡ My Tech Stack & Tools
+## 💻 My Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -21,18 +21,6 @@
     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
     ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
     ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBhomia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F222E" alt="Arnav Bhomia GitHub Stats" />
-  
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBhomia&layout=compact&theme=dark&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F222E" alt="Arnav Bhomia Top Languages" />
-</p>
 
 ---
 
